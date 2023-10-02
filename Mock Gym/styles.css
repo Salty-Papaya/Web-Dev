@@ -1,3 +1,36 @@
-p {
-    color:blue;
+/*body*/
+
+body.custom-body {
+    background-color: #1B1B1B;
+    margin:0%;
+    padding: 0%;
 }
+.body-background-color {
+    background-color: #1B1B1B;
+}
+
+/*navbar*/
+
+#navbar{
+    background-color: #1B1B1B;
+}
+
+/*Written Elements*/
+
+p {
+    color:whitesmoke;
+}
+
+/*Tool Classes*/
+
+.margin-padding0 {
+    margin:0%;
+    padding: 0%;
+}
+
+/*Images*/
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
